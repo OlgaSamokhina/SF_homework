@@ -11,7 +11,7 @@
 ### Описание проекта    
 Угадать загаданное компьютером число за менее, чем 20 попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/OlgaSamokhina/SF_homework/blob/main/project_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -33,25 +33,25 @@
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/OlgaSamokhina/SF_homework/blob/main/project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/OlgaSamokhina/SF_homework/blob/main/project_1/README.md#Оглавление)
 
 
 ### Результаты:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/OlgaSamokhina/SF_homework/blob/main/project_1/README.md#Оглавление)
 
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](.README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/OlgaSamokhina/SF_homework/blob/main/project_1/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
