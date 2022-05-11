@@ -23,7 +23,7 @@ def random_predict(number: int) -> int:
     count = 0
     min_number = 1
     max_number = 100
-    predict_number = round((min_number+max_number) / 2) # для ускорения сразу предполагаем, что наше число - середина интервала
+    predict_number = round((min_number+max_number) / 2) # предполагаемое число - середина интервала
     
     while True:
         count += 1
