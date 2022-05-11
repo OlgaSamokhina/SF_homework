@@ -1,7 +1,7 @@
 """Игра угадай число
 Компьютер сам загадывает и сам угадывает число
 Алгоритм учитывает информацию о том, больше или меньше предполагаемое (случайное) число нужного нам числа
-Функция справляется с угадыванием меньше чем за 20 попыток
+Минимизируем число попыток угадывания методом половинного деления
 
 """
 
@@ -15,7 +15,7 @@ def random_predict(number: int) -> int:
     минимизируем количество попыток.
     
     Args:
-        number (int, optional): Загаданное число. Defaults to 1.
+        number (int, optional): Загаданное число
 
     Returns:
         int: Число попыток
@@ -23,17 +23,17 @@ def random_predict(number: int) -> int:
     count = 0
     min_number = 1
     max_number = 100
-    predict_number = round((min_number+max_number) / 2)
+    predict_number = round((min_number+max_number) / 2) # для ускорения сразу предполагаем, что наше число - середина интервала
     
     while True:
         count += 1
         if predict_number != number:
             if predict_number > number:
-                max_number = predict_number - 1
-                predict_number = round((min_number+max_number) / 2)
+                max_number = predict_number - 1 # сдвигаем верхнюю границу интервала вниз
+                predict_number = round((min_number+max_number) / 2) # предполагаемое число - середина нового интервала
             elif predict_number < number:
-                min_number = predict_number + 1
-                predict_number = round((min_number+max_number) / 2)
+                min_number = predict_number + 1 # сдвигаем нижню границу интервала вверх
+                predict_number = round((min_number+max_number) / 2) # предполагаемое число - середина нового интервала
         else:
             break  # выход из цикла если угадали
     return count
