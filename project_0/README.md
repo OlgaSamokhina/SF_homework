@@ -10,11 +10,11 @@
 
 [4. Stages of the project](url)
 
-[5. The result](url)
+[5. Result](url)
 
-[6. The conclusion](url)
+[6. Conclusion](url)
 
-[7. Practical use](url)
+[7. Implementation](url)
 
 ### 1. Project description
 
@@ -32,14 +32,14 @@
 
 [to the table of contens](https://github.com/OlgaSamokhina/SF_homework/tree/main/project_0/README.md#table-of-contents)
 
-### 5. The result
+### 5. Result
 
 [to the table of contens](https://github.com/OlgaSamokhina/SF_homework/tree/main/project_0/README.md#table-of-contents)
 
-### 6. The conclusion
+### 6. Conclusion
 
 [to the table of contens](https://github.com/OlgaSamokhina/SF_homework/tree/main/project_0/README.md#table-of-contents)
 
-### 7. Practical use
+### 7. Implementation
 
 [to the table of contens](https://github.com/OlgaSamokhina/SF_homework/tree/main/project_0/README.md#table-of-contents)
